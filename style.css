@@ -1,0 +1,20 @@
+.fon {
+    height: 1000px;
+    background-color: blue;
+    background-image: url(img/fon.png);
+    background-position: center;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.minecraftLogo{
+    height: 50px;
+}
+.menu {
+    height: 90px;
+    display: flex;
+}
+h1 {
+    color: white;
+}
